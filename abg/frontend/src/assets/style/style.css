@@ -1,0 +1,547 @@
+.dmsansB
+{
+    font-family: DMSansB;
+}
+.interSB
+{
+  font-family: intersemib;
+}
+.InterEB
+{
+  font-family: InterExtraBold ;
+}
+.dmsansR
+{
+  font-family: DMSsansregular;
+}
+.interB
+{
+  font-family: InterBold;
+}
+.dmsansM
+{
+  font-family: DMSsansmedium;
+}
+.interM
+{
+  font-family: Intermedium;
+}
+
+.zoom-card {
+  transition: all 0.3s ease-in-out;
+}
+
+.zoom-card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  box-shadow: 0px 2px 4px #999;
+}
+.titlefont7 {
+  color: whitesmoke;
+  font-family:"titlefont7"
+}
+.titlefont8 {
+  color: red;
+  font-family:"titlefont8"
+}
+
+.titlefont9 {
+  color: white;
+  font-family:"titlefont8"
+}
+
+
+.titlefont10 {
+  color: black;
+  font-size: 14px;
+  font-family:"titlefont10"
+}
+
+.titlefont11 {
+  color: black;
+  font-size: 34px;
+  font-family:"titlefont11"
+}
+
+
+.titlefont12 {
+  color: black;
+  font-size: 34px;
+  font-family:"titlefont12"
+}
+
+
+.titlefont13{
+  color: black;
+  font-size: 34px;
+  font-family:"titlefont13"
+}
+
+.homefontsub2{
+  color: #37aee5
+  ;
+  font-size: 27px;
+  font-family:"homefontsub2"
+}
+
+.homefontsub{
+  color: white;
+  font-size: 20px;
+  font-family:"homefontsub"
+}
+
+.buttonfont{
+  color: white;
+  font-size: 18px;
+  font-family:"buttonfont"
+}
+.buttonfont:hover{
+  color: #0096FF;
+  font-size: 18px;
+  font-family:"buttonfont"
+}
+
+.btn:hover{
+  color: #0096FF; 
+}
+
+.buttonfont2{
+  color: #0096FF;
+  font-size: 18px;
+  font-family:"buttonfont2"
+}
+
+.buttonfont2:hover{
+  color: white;
+  font-size: 18px;
+  font-family:"buttonfont2"
+}
+.buttonfont3{
+  color: black;
+  font-size: 18px;
+  font-family:"buttonfont3"
+}
+
+
+.mainfont{
+  color: black;
+  font-size: 15px;
+  font-family:"mainfont"
+}
+
+.mainfont6{
+  color: white;
+  font-size: 15px;
+  font-family:"mainfont6"
+}
+
+.mainfontbold{
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  font-family:"mainfontbold"
+
+}
+.homefont{
+  color: white;
+  font-size: 38px;
+  font-family:"homefont"
+}
+
+
+.titlefont{
+  font-family: titlefont;
+  font-size: 18px;
+ }
+
+.titleft{
+  font-family: titlefont;
+  font-size: 25px;
+  color: #ff0000;
+ }
+
+ .titlefont2{
+  font-family: titlefont2;
+  font-size: 18px;
+ }
+
+ .titlefont3{
+  font-family: titlefont3;
+  font-size: 32px;
+ }
+ .titlefont4{
+  font-family: titlefont4;
+ }
+ .titlefont6{
+  font-family: titlefont6;
+  font-size: 20px;
+ }
+
+ .titlefont5{
+  font-family: titlefont5;
+  font-size: 22px;
+ }
+
+
+
+
+.berlinb
+{
+  font-family: berlinbold;
+}
+.sans
+{
+  font-family: sansregular;
+}
+.sansb
+{
+  font-family: sansbold;
+}
+.bold
+{
+    font-family: pbold;
+}
+.light
+{
+    font-family: plight;
+}
+.medium
+{
+    font-family: pmedium;
+}
+.regular
+
+{
+    font-family: pregular;
+}
+.sbold
+
+{
+    font-family: psemibold;
+}
+
+.syn
+{
+    font-family: syneb;
+}
+.syne
+{
+    font-family: syneeb;
+}
+
+.small
+{
+    font-size:12px
+}
+.medium{
+   font-size:14px;
+}
+.large{
+    font-size:13px;
+ }
+ .xlarge{
+    font-size:22px;
+
+ }
+
+
+
+
+
+ .subhead{
+     font-size:18px
+ }
+ .headd
+ {
+     font-size:30px;
+ }
+ 
+ .shadow {
+    text-shadow: 10px 10px 15px #0533ff !important;
+  }
+  .TXT {
+    color: #a6a5a1;
+    font-family:"sregular"
+  }
+  .myCls
+  {
+      font-family: pbold ;
+      font-size:14px;
+  }
+  .text1:hover{
+    color: #87ceeb !important;
+   }
+   .text2:hover{
+ color:rgb(184, 180, 186) !important;
+}
+   .text3:hover{
+ color:rgb(162, 23, 249) !important;
+}
+.loader {
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.textalign {
+  text-align: center;
+}
+.index {
+  z-index: 1 !important;
+}
+/* .clr {
+  border: 2px solid #87ceeb;
+  background-color: white;
+  color: #87ceeb;
+}
+.clr:hover {
+  background-color: #87ceeb;
+  border: 1px solid #87ceeb;
+  color: white;
+} */
+.grad {
+  background-image: linear-gradient(to right, #fbfbfb, #fbfbfb);
+}
+.grad3 {
+  background-image: linear-gradient(to right, white, white);
+}
+.my-btn {
+  padding: 10px 20px; /* add 10px padding to top/bottom and 20px padding to left/right */
+}
+.grad2 {
+  background-image: linear-gradient(to right, white, white);
+}
+div.test {
+  padding: 5px;
+
+  border-radius: 35px;
+  -moz-border-radius: 15px;
+}
+
+div.test2 {
+  width: 312px;
+  padding: 10px;
+  border-radius: 0px;
+  -moz-border-radius: 15px;
+}
+/* .clrspan {
+  color: orange;
+}
+.clrspan:hover {
+  color: white;
+} */
+.child1 {
+  position: absolute;
+  z-index: 1;
+}
+.overlay {
+  position: relative;
+}
+.overlay::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.9;
+}
+.transparent-image {
+  opacity: 1;
+}
+.hero-video {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+.half-screen {
+  width: 10%; /* set the width to 50% of the screen */
+  /* set the height to the full height of the screen */
+  float: left; /* float the div to the left side of the screen */
+}
+
+.hero-video video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  font-size: 3rem;
+}
+
+.btn {
+  text-transform: unset !important;
+}
+.hero-text h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 5rem;
+}
+
+.hero-text p {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.hero-text button {
+  padding: 1rem 2rem;
+  border: none;
+  background-color: #fff;
+  color: #333;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.zoom-card {
+  transition: all 0.3s ease-in-out;
+}
+
+.zoom-card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  box-shadow: 0px 2px 4px #999;
+}
+
+.myclass.v-sheet.v-card {
+  border: 1px solid #87ceeb;
+}
+.zoom-card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  box-shadow: 0px 2px 4px #999;
+}
+/* .clr:hover {
+  background-color: #87ceeb;
+  border: 1px solid #87ceeb;
+  color: white;
+} */
+
+.my-div {
+  width: 300px; /* align text to the left */
+}
+.my-div2 {
+  width: 70px; /* align text to the left */
+}
+.heading {
+  white-space: nowrap; /* prevent line breaks */
+  overflow: hidden; /* hide any overflow */
+  text-overflow: ellipsis; /* add ellipsis if the text overflows */
+  text-align: center; /* align text horizontally */
+}
+.my-heading {
+  font-size: 20px; /* set the font size to 20 pixels */
+}
+
+.no-uppercase {
+  text-transform: unset !important;
+}
+.textalign {
+  text-align: center;
+}
+.index {
+  z-index: 1 !important;
+}
+
+@media screen and (max-width: 168px) {
+  .my-heading {
+    font-size: 16px; /* set the font size to 16 pixels */
+  }
+}
+.login-box:hover {
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #e54242,
+                0 0 10px #e54242,
+                0 0 15px #a2a2a2,
+                0 0 20px #a2a2a2;
+  }
+
+.social-login__icon:hover {
+	transform: scale(1.5);
+    	
+}
+
+#grad1 {
+    
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(#e53035,#dfdfdf
+    );
+  }
+
+.fill:hover,
+.fill:focus {
+  box-shadow: inset 0 0 0 2em var(--hover);
+}
+
+@keyframes opacity-in {
+    from {opacity: 0.4;}
+    to {opacity: 1;}
+  }
+  
+  @keyframes opacity-out {
+    from {opacity: 1;}
+    to {opacity: 0.4;}
+  }
+  
+  .card-login{
+    opacity: 0.4;
+    animation-name: opacity-out;
+    animation-duration: 2s;
+  }
+  
+  .card-login:hover{
+    opacity: 1;
+    animation-name: opacity-in;
+    animation-duration: 2s;
+  }
+  
+  .alert-in{
+    animation-name: opacity-in;
+    animation-duration: 2s;
+  }
+
+
+  .rectangle {
+    height: 4px;
+    width: 142px;
+    background-color: #f02020;
+  }
+
+
+
+  .zoom {
+    padding: 50px;
+    background-color: white;
+    transition: transform .2s;
+    width: 403px;
+    
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+  .hover-card:hover {
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgb(55, 255, 0);
+  }
+  
+  .headerfont
+  {
+    font-family: homefontsub2;
+    font-size: 15px;
+  }
